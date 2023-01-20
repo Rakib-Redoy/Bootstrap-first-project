@@ -1,0 +1,21 @@
+.banner-img-1{
+    background-image: url(../resource/image/carousel/1.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+.banner-img-2{
+    background-image: url(../resource/image/carousel/4.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.banner-img-3{
+    background-image: url(../resource/image/carousel/3.jpg);
+    height: 100vh;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+.client-image{
+    width: 160px;
+}
